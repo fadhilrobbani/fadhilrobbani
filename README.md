@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello Everyone! 👋</h1> <br>
 
 My name is **Fadhilla Ilham Robbani,** As a student in the Informatics study program and Bangkit Academy 2024, I specialize in programming with focus on web development. My technical proficiency includes expertise in JavaScript and PHP, along with hands-on experience in modern technologies, libraries, and frameworks such as ReactJS, Nodejs, NextJs, Laravel, TailwindCSS, and so forth. Currently, I am also expanding my knowledge by learning about cloud computing and machine learning. 
